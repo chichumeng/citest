@@ -1,2 +1,2 @@
 <?php
-exit(1);
+echo 'success';
